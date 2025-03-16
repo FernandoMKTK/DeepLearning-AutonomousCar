@@ -13,35 +13,6 @@
 
 ---
 
-## 🛠 Instalación y Configuración
-
-### 1️⃣ **Clonar el Repositorio**
-```bash
-git clone [https://github.com/tu_usuario/AutonomousCar-PyTorch.git](https://github.com/FernandoMKTK/DeepLearning-AutonomousCar)![image](https://github.com/user-attachments/assets/207d771e-76a7-409e-ae49-b5842d290aba)
-
-```
-
-### 2️⃣ **Instalar Dependencias**
-Asegúrate de tener **Python 3.8+** y ejecuta:
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ **Entrenar el Modelo**
-Si deseas entrenar el modelo desde cero, ejecuta:
-```bash
-python train.py
-```
-Asegúrate de contar con un dataset de imágenes y etiquetas de control.
-
-### 4️⃣ **Prueba del Modelo**
-Para probar el modelo en la pista o simulación:
-```bash
-python test.py
-```
-
----
-
 ## 📜 Tecnologías Utilizadas
 - **Python 3.6+**
 - **PyTorch**

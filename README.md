@@ -17,8 +17,8 @@
 
 ### 1️⃣ **Clonar el Repositorio**
 ```bash
-git clone https://github.com/tu_usuario/AutonomousCar-PyTorch.git
-cd AutonomousCar-PyTorch
+git clone [https://github.com/tu_usuario/AutonomousCar-PyTorch.git](https://github.com/FernandoMKTK/DeepLearning-AutonomousCar)![image](https://github.com/user-attachments/assets/207d771e-76a7-409e-ae49-b5842d290aba)
+
 ```
 
 ### 2️⃣ **Instalar Dependencias**
@@ -43,7 +43,7 @@ python test.py
 ---
 
 ## 📜 Tecnologías Utilizadas
-- **Python 3.8+**
+- **Python 3.6+**
 - **PyTorch**
 - **OpenCV**
 - **NumPy**
@@ -56,17 +56,13 @@ python test.py
 El modelo ha sido probado en una pista y ha demostrado capacidad de conducción autónoma en entornos simulados. Algunos ejemplos de inferencia:
 
 📸 **Ejemplo de Entrada**  
-*(Imagen capturada por la cámara del automóvil)*  
+Imagen capturada por la cámara del automóvil
 🠗  
 🔀 **Salida del Modelo**  
-*(Ángulo de giro del volante: -15° a +15° según la predicción)*  
+Ángulo de giro del volante: 45° (derecha) 90° (defrente) 135° (izquierda)
 
 ---
 
-## 🤝 Contribuciones
-¡Las contribuciones son bienvenidas! Si deseas mejorar el modelo o añadir nuevas funcionalidades, por favor abre un **Pull Request** o reporta un problema en **Issues**.
-
----
 
 ## 📜 Licencia
 Este proyecto está bajo la licencia **MIT**, por lo que puedes usarlo y modificarlo libremente.
@@ -75,8 +71,9 @@ Este proyecto está bajo la licencia **MIT**, por lo que puedes usarlo y modific
 
 ## 📧 Contacto
 Si tienes preguntas o deseas colaborar, puedes contactarme en:  
-📩 **tu_email@example.com**  
-📌 **GitHub:** [github.com/tu_usuario](https://github.com/tu_usuario)
+📩 **a20196303@pucp.edu.pe**  
+📌 **GitHub:** https://github.com/FernandoMKTK
+
 
 ---
 
